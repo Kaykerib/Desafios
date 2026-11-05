@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/Si/SI 12"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "python",
+		"liveServer.settings.port": 5501
+	}
+}
