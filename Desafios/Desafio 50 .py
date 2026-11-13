@@ -10,8 +10,9 @@ soma = n + f
 
 if soma % 2 == 0:
    resultado = 'par'
+
 else:
- resultado = 'impar'
- 
+    print('Numero desconsiderado!!!')
+
 
 print(resultado) 
